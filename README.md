@@ -57,6 +57,6 @@ Este proyecto tiene potencial para crecer. Algunas ideas para futuras versiones 
 
 Desarrollado con ❤️ por **[Christopher]** como parte del programa ONE G9.
 
-* GitHub: [@Chrisbv2](https://github.com/Chrisbv2])
-* LinkedIn: [Christopher Beancourt](www.linkedin.com/in/christopher-betancourt-vicens/)
+* GitHub: [@Chrisbv2](https://github.com/Chrisbv2)
+* LinkedIn: [Christopher Betancourt](https://www.linkedin.com/in/christopher-betancourt-vicens/)
 
