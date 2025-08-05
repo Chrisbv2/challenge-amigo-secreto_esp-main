@@ -13,7 +13,7 @@ El objetivo principal es aplicar los conocimientos de lógica de programación a
 
 ## 📸 Demo
 
-`![Demo del proyecto](nombre_del_archivo.png)`
+![Demo del Sorteo Amigo Secreto](amigo_secreto_gif.gif)
 
 ## ✨ Características Principales
 
